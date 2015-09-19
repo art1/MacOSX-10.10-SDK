@@ -1,0 +1,7 @@
+framework module AppKitScripting [extern_c] [system] {
+  umbrella "Headers"
+
+  export *
+  module * { export * }
+}
+
